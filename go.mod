@@ -1,6 +1,6 @@
 module github.com/Loggie/go-secrets
 
-go 1.26.1
+go 1.27.4
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
